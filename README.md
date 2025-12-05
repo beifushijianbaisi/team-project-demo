@@ -1,2 +1,2 @@
 # team-project-demo
-Hello from B
+Hello from A and B
